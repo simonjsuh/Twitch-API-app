@@ -25,7 +25,7 @@ class API extends React.Component {
           </nav>
             <div id="instructions">
             <h1>Instructions</h1>
-            <p>To get started, click on 'List of Top Games' or 'List of Top Streamers' links. You can view the live streams of each individual streamer via this app. Thank you for your time! - Simon S.</p>
+            <p>To get started, click on 'List of Top Games' or 'List of Top Streamers' links. You can view the live streams of each individual streamer via this app. Scrolling down dynamically loads more games and streams. Thank you for your time! - Simon S.</p>
           </div>
         </div>
         
