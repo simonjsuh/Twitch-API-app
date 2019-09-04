@@ -23,8 +23,10 @@ class API extends React.Component {
               </li>
             </ul>
           </nav>
-          <h1>Instructions</h1>
-          <p>To get started, click on 'List of Top Games' or 'List of Top Streamers' links. You can view the live streams of each individual streamer via this app. Thank you for your time! - Simon S.</p>
+            <div id="instructions">
+            <h1>Instructions</h1>
+            <p>To get started, click on 'List of Top Games' or 'List of Top Streamers' links. You can view the live streams of each individual streamer via this app. Thank you for your time! - Simon S.</p>
+          </div>
         </div>
         
         <Route path="/view_streamer/:id" exact component={ViewStreamer} />
