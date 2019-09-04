@@ -2,7 +2,7 @@
   "name": "practice2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://simonjsuh.github.io/Twitch-API-app",
+  "homepage": "http://simonjsuh.github.io/Twitch-API-app/",
   "dependencies": {
     "jquery": "^3.4.1",
     "react": "^16.9.0",
@@ -32,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
