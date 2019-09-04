@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Twitch-API-app/static/css/main.6dd39fd9.chunk.css",
+    "main.js": "/Twitch-API-app/static/js/main.b0c6af77.chunk.js",
+    "main.js.map": "/Twitch-API-app/static/js/main.b0c6af77.chunk.js.map",
+    "runtime~main.js": "/Twitch-API-app/static/js/runtime~main.37d4a5fe.js",
+    "runtime~main.js.map": "/Twitch-API-app/static/js/runtime~main.37d4a5fe.js.map",
+    "static/js/2.bf52ad71.chunk.js": "/Twitch-API-app/static/js/2.bf52ad71.chunk.js",
+    "static/js/2.bf52ad71.chunk.js.map": "/Twitch-API-app/static/js/2.bf52ad71.chunk.js.map",
+    "index.html": "/Twitch-API-app/index.html",
+    "precache-manifest.3c95d363739aef4ecfcbc8d06e3e8f41.js": "/Twitch-API-app/precache-manifest.3c95d363739aef4ecfcbc8d06e3e8f41.js",
+    "service-worker.js": "/Twitch-API-app/service-worker.js",
+    "static/css/main.6dd39fd9.chunk.css.map": "/Twitch-API-app/static/css/main.6dd39fd9.chunk.css.map"
+  }
+}
