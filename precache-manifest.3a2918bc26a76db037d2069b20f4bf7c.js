@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef6f2677ce85cbc5c699bea5d51dbea5",
+    "revision": "0e5f42d07d09445c0a3ef5b9533be055",
     "url": "/Twitch-API-app/index.html"
   },
   {
-    "revision": "1a5ddbab8dcde45f06cc",
+    "revision": "c9f38e7cdd4c8154b95a",
     "url": "/Twitch-API-app/static/css/main.6dd39fd9.chunk.css"
   },
   {
-    "revision": "a342f55681d483244a74",
-    "url": "/Twitch-API-app/static/js/2.bf52ad71.chunk.js"
+    "revision": "c22dd8db72a8081e5150",
+    "url": "/Twitch-API-app/static/js/2.6da588fc.chunk.js"
   },
   {
-    "revision": "1a5ddbab8dcde45f06cc",
-    "url": "/Twitch-API-app/static/js/main.b0c6af77.chunk.js"
+    "revision": "c9f38e7cdd4c8154b95a",
+    "url": "/Twitch-API-app/static/js/main.f7741b0b.chunk.js"
   },
   {
     "revision": "f54a77c694541dc36a9b",
